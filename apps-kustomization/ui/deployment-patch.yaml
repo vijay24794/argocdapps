@@ -4,4 +4,4 @@ metadata:
   name: ui
 spec:
   # HIGHLIGHT
-  replicas: 1
+  replicas: 3
